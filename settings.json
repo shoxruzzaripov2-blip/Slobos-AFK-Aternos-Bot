@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "The server bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "Shox_1z.aternos.me:20786",
+    "port": 20786,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
